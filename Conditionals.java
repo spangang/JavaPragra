@@ -1,5 +1,5 @@
 public class Conditionals {
-    //edit for jenkins
+    //edit for jenkins.
 
     public static void main(String args []){
 
